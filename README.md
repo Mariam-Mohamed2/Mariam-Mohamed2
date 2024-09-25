@@ -9,7 +9,7 @@
 <br>
 
 ## 🙋‍♂️ About Me:
-I'm a third-year AI student 
+I'm a senior AI student 
 
 - 🌱 I’m currently learning machine learning,data science, ,Neural Networks ,NLP
 
